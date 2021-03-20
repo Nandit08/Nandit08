@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nandit08
+- 👀 I’m interested in python, machine learning
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on deep learning, NLP to expand my tech skills
+- 📫 How to reach me mail me on malviyanandit@gmail.com
